@@ -18,6 +18,8 @@ isort = "^6.0.1"
 mypy = "^1.16.0"
 scipy = "^1.15.3"
 scikit-learn = "^1.7.0"
+yahoo-finance = "^1.4.0"
+yfinance = "^0.2.63"
 
 
 [build-system]
